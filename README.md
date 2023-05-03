@@ -10,7 +10,6 @@ Fork the Project by using:
 ```bash
 git clone https://github.com/weedgit/Cinema.git
 ```
-
 then cd into the project by using:
 ```
 cd iCinema
